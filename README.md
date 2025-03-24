@@ -15,7 +15,7 @@ This is a simple bookstore web application built using Streamlit. The applicatio
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/ecommerce-web-app.git
+    git clone https://github.com/Faizme/bookstore-web-app.git
     cd ecommerce-web-app
     ```
 
